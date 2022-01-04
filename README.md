@@ -15,9 +15,7 @@ conditions of the [EUPL 1.2](https://www.eupl.eu/1.2/en/) licence.
 
 ## Installation ##
 
-This package can be installed using `pip install physconsts`.  This should automatically install the
-dependency packages ``, if they haven't been installed already.  If you are
-installing by hand, ensure that these packages are installed as well.
+This package can be installed using `pip install physconsts`.  There are currently no dependency packages.
 
 
 ## Example use ##
@@ -45,3 +43,8 @@ import physconsts
 
 ## References ##
 
+* [Fundamental physical constants from NIST](https://physics.nist.gov/cuu/Constants/)
+* [The Astronomical Almanac Online!](http://asa.hmnao.com/SecK/Constants.html)
+
+
+<sub>Copyright (c) 2022 Marc van der Sluys</sub>
