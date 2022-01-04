@@ -1,7 +1,7 @@
 #!/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Setup.py for the PhysConst Python package."""
+"""Setup.py for the PhysConsts Python package."""
 
 
 # Package version:
@@ -14,12 +14,12 @@ with open('README.md', 'r') as fh:
 # Set package properties:
 from setuptools import setup
 setup(
-    name='physconst',
+    name='physconsts',
     description='A Python package that provides physical constants.',
     author='Marc van der Sluys',
-    url='https://github.com/MarcvdSluys/PhysConst',
+    url='https://github.com/MarcvdSluys/PhysConsts',
     
-    packages=['physconst'],
+    packages=['physconsts'],
     install_requires=[''],
     long_description=long_description,
     long_description_content_type='text/markdown',
